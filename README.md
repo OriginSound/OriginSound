@@ -1,6 +1,6 @@
 # A simple self-introduction
 
-- 👋 Hi, I’m Cloud. And now I'm an undergraduate.
+- 👋 Hi, I’m Cloud. And now I'm a graduate student.
 - 👀 I’m interested in Statistics and Artificial Intelligence.
 - 🌱 I’m currently learning Statistics and Computer Vision
 
